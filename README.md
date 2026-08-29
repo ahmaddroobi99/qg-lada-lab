@@ -2,6 +2,8 @@
 
 Interactive reconstruction of the barotropic streamfunction from Lagrangian drifters.
 
+**Live:** [qg-lada-lab.netlify.app](https://qg-lada-lab.netlify.app) · [Lab](https://qg-lada-lab.netlify.app/simulate)
+
 The browser **Lab** runs a spectral quasi-geostrophic twin and a localized stochastic EnKF (WHERE, thesis Algorithm 5) with an optional hybrid EnKF–PF branch (Algorithms 8–9). Every term in
 
 ```

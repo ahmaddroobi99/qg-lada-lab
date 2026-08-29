@@ -5,6 +5,13 @@ export function SiteFooter() {
         <p>Ahmad Hamdan Droobi · MSc Mechanical Engineering · University of Calgary · 2025</p>
         <p className="font-mono text-xs">
           <a
+            href="https://qg-lada-lab.netlify.app"
+            className="text-muted underline-offset-4 hover:text-fg hover:underline"
+          >
+            Netlify
+          </a>
+          {" · "}
+          <a
             href="https://github.com/ahmaddroobi99/qg-lada-lab"
             className="text-muted underline-offset-4 hover:text-fg hover:underline"
           >

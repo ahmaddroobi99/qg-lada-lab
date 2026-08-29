@@ -5,6 +5,7 @@ dist/
 .nitro/
 .tanstack/
 .wrangler/
+.netlify/
 artifacts/
 attachments/
 screenshots/
