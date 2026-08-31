@@ -80,3 +80,8 @@ The Python solver uses the same operators as the lab. Private research codes liv
 ## License
 
 Original lab code in this repository. Thesis text and figures remain under University of Calgary deposit terms.
+
+---
+
+Account grouping: research first, undergraduate last — see the [profile README](https://github.com/ahmaddroobi99/ahmaddroobi99). GitHub cannot custom-sort the Repositories tab.
+
