@@ -74,7 +74,7 @@ The Python solver uses the same operators as the lab. Private research codes liv
 ## Related
 
 - Thesis (PDF): [Scholaris](https://ucalgary.scholaris.ca/items/b4a3d3b9-4fbf-4d1e-8e1e-80c71c009825)
-- Academic site: [privatedro.github.io](https://privatedro.github.io/)
+- LinkedIn: [linkedin.com/in/droobi7](https://www.linkedin.com/in/droobi7/)
 - Profile: [github.com/ahmaddroobi99](https://github.com/ahmaddroobi99)
 
 ## License
