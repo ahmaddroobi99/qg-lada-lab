@@ -48,6 +48,21 @@ Lagrangian drifters (partial, noisy velocity)
 
 Helmholtz inversion follows `baro.ipynb` (`ψ̂ = −q̂/(κ²+μ)`), not the unsigned formula typeset in Algorithm 5.
 
+## Run the web lab
+
+Node 22.
+
+```bash
+npm ci
+npm run dev            # http://localhost:8080
+npm run typecheck
+npm run lint
+npm test
+npx vite build         # client + SSR bundle only
+```
+
+`npm run build` also runs `db:migrate`, which applies database migrations when `DATABASE_URL` is set. `npm run check:auth` needs `npm run dev` running. On a fresh clone 16 template tests in `scripts/` fail: they expect the stock app-builder setup (`.grok/` files, which are gitignored here, and the default `src/lib/og/site.json`).
+
 ## Run the Python experiment
 
 ```bash
